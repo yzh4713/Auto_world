@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="UA_test.Automationclass.selenium" />
+          <option value="UA_test.unittestClass.Processing" />
+          <option value="pandas" />
+          <option value="UA_test.Processing.Automationclass" />
+          <option value="标准库.test02.average" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

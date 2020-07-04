@@ -1,0 +1,4 @@
+在项目的根目录，输入命令：
+python manage.py makemigrations myapp
+
+python manage.py migrate
